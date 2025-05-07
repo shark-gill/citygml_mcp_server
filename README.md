@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/shark-gill-citygml-mcp-server-badge.jpg)](https://mseep.ai/app/shark-gill-citygml-mcp-server)
+
 # CityGML MCP 서버
 
 이 프로젝트는 [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/typescript-sdk)을 사용하여 CityGML 데이터에 접근할 수 있는 서버를 구현합니다.
